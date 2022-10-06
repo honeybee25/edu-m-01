@@ -923,3 +923,7 @@ body:hover #scroll a{opacity: 1; visibility: visible;}
 .m-auto {
 	margin: auto !important;
 }
+
+.service-content img, .single-team-wrapper img {
+	margin: 1rem;
+}
