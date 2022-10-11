@@ -85,8 +85,8 @@
           margin-right: 0;
      }
      .service-img-bg {
-          width: 608px;
-          height: 608px;
+          width: 500px;
+          height: 500px;
      }
      .service-img {margin-left: -105px; margin-right: -280px;}
      .feature-img { margin-left: -50px; margin-right: 20px;}
@@ -568,6 +568,7 @@
      }
      .team-img img {
           width: 100%;
+          max-width: 40px;
      }
      .team-area{padding-bottom: 95px;}
      .about-area .title{text-align: left;}
@@ -581,7 +582,7 @@
           -ms-transform: scale(1);
           -o-transform: scale(1);
      }
-     .sticky-menu .logo{max-width: 90px;}
+     .sticky-menu .logo{max-width: 100%;}
      .slider-height4 .slider-content h1{font-size: 35px; padding-right: 50px;}
      .slider5-bg .slider-content h1,.slider3-bg .slider-content h1,.slider2-bg .slider-content h1 {font-size: 35px;}
      .slider-height4{min-height: 500px;}
