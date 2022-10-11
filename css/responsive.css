@@ -555,7 +555,7 @@
           height: 275px;
           margin: 0 auto;
      }
-     .service-img-bg img { max-width: 90%;margin-top: -70px;}
+     .service-img-bg img { max-width: 90%;margin-top: -30px;}
      .testi-info {justify-content: center;}
      .testimonial-active .slick-arrow .l-a, .testimonial-active .slick-arrow .r-a {
           left: 30%;

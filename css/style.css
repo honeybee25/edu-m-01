@@ -949,3 +949,6 @@ body:hover #scroll a{opacity: 1; visibility: visible;}
 }
 
 
+.product video {
+	max-width: 100%;
+}
