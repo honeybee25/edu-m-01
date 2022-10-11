@@ -791,10 +791,10 @@
 .theme-border{border:1px solid #6c63ff}
 
 
-.facebook-color{color: #3b5998;}
-.twitter-color{color: #1da1f2;}
-.google-plus-color{color: #dd4b39;}
-.linkedin-color{color: #0077b5;}
+.facebook-color{color: #3b5998; font-size: 1.7rem;}
+.twitter-color{color: #1da1f2; font-size: 1.7rem;}
+.google-plus-color{color: #dd4b39; font-size: 1.7rem;}
+.linkedin-color{color: #0077b5; font-size: 1.7rem;}
 /* black overlay */
 [data-overlay] {
 	position: relative;

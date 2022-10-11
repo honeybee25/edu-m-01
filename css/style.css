@@ -304,7 +304,8 @@ a:focus,a:hover,.portfolio-cat a:hover,.footer-menu li a:hover {
 }
 
 /* home4 */
-.sticky-menu .header4 {background: rgba(255,255,255,0.2); backdrop-filter: blur(5px);}
+/*.sticky-menu .header4 {background: rgba(255,255,255,0.2); backdrop-filter: blur(5px);}*/
+.sticky-menu .header4 {background: #d8e7f4; backdrop-filter: blur(5px);}
 .header-right a{font-size: 18px;}
 .header4 .main-menu ul li > a:hover::before,.header4 .main-menu ul li > a:hover a.active::before,.header4 .main-menu ul li.active a::before{background: #ffffff;}
 /* home5 */
@@ -937,7 +938,7 @@ body:hover #scroll a{opacity: 1; visibility: visible;}
 
 .roadmapTitle h6{
 	margin-bottom: 2rem;
-  background: #f1f2f5;
+  background: #d8e7f4;
   padding: 1rem;
   border-radius: 10px;
 }
@@ -951,4 +952,19 @@ body:hover #scroll a{opacity: 1; visibility: visible;}
 
 .product video {
 	max-width: 100%;
+}
+
+.mainBanner {
+	position: absolute;
+	top: 0;
+	right: 0;
+	max-width: 700px;
+}
+
+.red-color {
+	color: #d40c0c;
+}
+
+.primary-bg {
+	background: #d8e7f4;
 }
