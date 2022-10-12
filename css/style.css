@@ -968,3 +968,7 @@ body:hover #scroll a{opacity: 1; visibility: visible;}
 .primary-bg {
 	background: #d8e7f4;
 }
+
+.z-99 {
+	z-index: 99;
+}
