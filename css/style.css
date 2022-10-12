@@ -956,7 +956,7 @@ body:hover #scroll a{opacity: 1; visibility: visible;}
 
 .mainBanner {
 	position: absolute;
-	top: 0;
+	top: -31px;
 	right: 10%;
 	max-width: 700px;
 }
