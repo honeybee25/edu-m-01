@@ -735,9 +735,8 @@
 	background: #04d2c8;
 }
 .primary-bg{
-	background: #f0f6fb;
+	background: #ecfcfc;
 }
-
 .white-bg {
 	background: #fff;
 }
@@ -790,11 +789,9 @@
 
 .theme-border{border:1px solid #6c63ff}
 
-
-.facebook-color{color: #3b5998; font-size: 1.7rem;}
-.twitter-color{color: #1da1f2; font-size: 1.7rem;}
-.google-plus-color{color: #dd4b39; font-size: 1.7rem;}
-.linkedin-color{color: #0077b5; font-size: 1.7rem;}
+.twitter-color{color: #1da1f2; font-size: 1.5rem;}
+.facebook-color{color: #3b5998; font-size: 2rem;}
+.google-plus-color{color: #dd4b39; font-size: 2.5rem;}
 /* black overlay */
 [data-overlay] {
 	position: relative;
@@ -980,7 +977,7 @@
 .object{
 	width: 20px;
 	height: 20px;
-	background-color: #f0f6fb;
+	background-color: #ecfcfc;
 	position: absolute;
 	z-index: 999;
 	-moz-border-radius: 50% 50% 50% 50%;
@@ -1086,8 +1083,11 @@
 	left: 820.985px;
 	top: 230px;
 	z-index: 131;
-   }
+}
    
+.p-1 {
+	padding: 1rem;
+}
 
 
 @media(max-width: 600px){
@@ -1098,8 +1098,25 @@
 		margin-bottom: 0 !important;
 	}
 
+	.pb-sm-0 {
+		padding-bottom: 0;
+	}
+
+	.m-sm-0 {
+		margin: 0;
+	}
+
+	.p-sm-0 {
+		padding: 0 !important;
+	}
 	.pt-sm-0 {
 		padding-top: 0 !important;
+	}
+	.pt-sm-50 {
+		padding-top: 50px;
+	}
+	.pt-sm-330 {
+		padding-top: 330px;
 	}
 
 	.blog-bg {
@@ -1109,6 +1126,13 @@
   .feature-area.feature-product-bg {
   	padding-bottom: 0 !important;
   	margin-bottom: 0 !important;
+  }
+
+  h2 {
+  	font-size: 1.7rem;
+  }
+  h5 {
+  	font-size: 21px;
   }
 
 

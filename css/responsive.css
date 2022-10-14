@@ -2,7 +2,7 @@
 @media screen and (min-width: 1921px) and (max-width: 5000px) {
      .blog-bg {
           padding-top: 0;
-          background-color: #f0f6fb;
+          background-color: #ecfcfc;
           padding-bottom: 130px;
           background-image: none !important;
      }
@@ -13,7 +13,7 @@
           display: none !important;
      }
     .feature-product-bg {
-          background-color: #f0f6fb;
+          background-color: #ecfcfc;
           padding-bottom: 140px;
           margin-bottom: 40px;
           padding-top: 110px;
@@ -331,7 +331,7 @@
      }
      .feature-img { margin-left: 0; }
      .feature-area.feature-product-bg {
-          background-color: #f0f6fb;
+          background-color: #ecfcfc;
           padding-bottom: 115px;
           padding-top: 108px;
      }
@@ -359,7 +359,7 @@
      .blog-area {margin-bottom: 100px;}
      .blog-bg {
           padding-top: 20px;
-          background-color: #f0f6fb;
+          background-color: #ecfcfc;
           background-image: none !important;
           padding-bottom: 90px;
      }
@@ -465,7 +465,7 @@
      .title.text-center p {font-size: 17px;}
      h4 { font-size: 30px;}
      .feature-area.feature-product-bg {
-          background-color: #f0f6fb;
+          background-color: #ecfcfc;
           padding-bottom: 115px;
           padding-top: 108px;
           margin-bottom: 130px;
@@ -535,7 +535,7 @@
           padding-top: 130px;
           background-image: none !important;
           padding-bottom: 120px;
-          background-color: #f0f6fb;
+          background-color: #ecfcfc;
           margin-bottom: 120px;
      }
      .blog-bg .title{margin-top: 0;}
@@ -584,6 +584,7 @@
      }
      .sticky-menu .logo{max-width: 100%;}
      .slider-height4 .slider-content h1{font-size: 35px; padding-right: 50px;}
+     .slider-height4 .slider-content h5{font-size: 20px; padding-right: 50px;}
      .slider5-bg .slider-content h1,.slider3-bg .slider-content h1,.slider2-bg .slider-content h1 {font-size: 35px;}
      .slider-height4{min-height: 500px;}
      .slider4-bg .slider4-shape.shape-12 {right: 40px;bottom: 50px;}
