@@ -527,6 +527,7 @@
      .brand-area p {font-size: 16px;}
      .brand-area ul li {
           margin-bottom: 70px;
+          padding: 0;
      }
      .brand-area {
           margin-bottom: 75px;

@@ -1098,8 +1098,19 @@
 		margin-bottom: 0 !important;
 	}
 
+	.mt-sm-50 {
+		margin-top: 50px;
+	}
+
+	. {
+		margin-top: 100px;
+	}
+
 	.pb-sm-0 {
 		padding-bottom: 0;
+	}
+	.pb-sm-50 {
+		padding-bottom: 50px;
 	}
 
 	.m-sm-0 {
@@ -1112,12 +1123,16 @@
 	.pt-sm-0 {
 		padding-top: 0 !important;
 	}
+	.pt-sm-10 {
+		padding-top: 10px;
+	}
 	.pt-sm-50 {
 		padding-top: 50px;
 	}
 	.pt-sm-330 {
 		padding-top: 330px;
 	}
+
 
 	.blog-bg {
     padding-top: 0px !important;
