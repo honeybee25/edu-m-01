@@ -439,6 +439,9 @@
      .pb-md-80 {
           padding-bottom: 80px;
      }
+     .teamMember li {
+          width: 33%;
+     }
 
 
 
