@@ -989,7 +989,7 @@ body:hover #scroll a{opacity: 1; visibility: visible;}
 	flex-wrap: wrap;
 	text-align: center;
   padding: 1rem;
-  min-width: 25%;
+  min-width: 20%;
 }
 
 .word-break{
