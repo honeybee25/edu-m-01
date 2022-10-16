@@ -433,6 +433,9 @@
      .mt-md--50 {
           margin-top: -50px !important;
      }
+     .pb-md-0 {
+          padding-bottom: 0 !important;
+     }
      .pb-md-50 {
           padding-bottom: 50px;
      }
