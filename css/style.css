@@ -996,3 +996,11 @@ body:hover #scroll a{opacity: 1; visibility: visible;}
 	word-break: keep-all;
 	/*white-space: nowrap;*/
 }
+
+footer p {
+	font-size: 16px;
+}
+
+.teamMember ul li h6 {
+	font-size: 21px;
+}
