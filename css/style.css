@@ -704,7 +704,7 @@ a:focus,a:hover,.portfolio-cat a:hover,.footer-menu li a:hover {
 .sub-name.form-control::placeholder {color: #666666;font-size: 18px;}
 .sub-name.form-control:focus {box-shadow: none;background: #f0f4f9;}
 .footer-bottom a.c-theme{color: #222222;}
-.footer-bottom .social-link a{font-size: 24px;}
+.footer-bottom .social-link a{font-size: 36px;}
 .footer-address li {
 	padding-bottom: 10px;
 }

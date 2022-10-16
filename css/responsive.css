@@ -323,17 +323,28 @@
      }
      .service-img {margin-top: 80px; margin-right: 0;padding-left: 0; margin-bottom: 40px;}
      .service-img-bg img {
-          max-width: 82%;
+          max-width: 100%;
      }
      .service-img-bg {
           width: 550px;
           height: 530px;
      }
      .feature-img { margin-left: 0; }
+     .feature-img img {
+          width: 80%;
+          margin: auto;
+     }
+     .team-img.position-relative {
+          width: 100%;
+     }
      .feature-area.feature-product-bg {
           background-color: #ecfcfc;
           padding-bottom: 115px;
           padding-top: 108px;
+     }
+     .inno3Img {
+          margin-top: 100px;
+          margin-bottom: -70px;
      }
      .product-area {
           padding-top: 25px;
@@ -341,7 +352,7 @@
           margin-bottom: 28px;
      }
      .title.text-center p {
-          font-size: 19px;
+          font-size: 24px;
      }
      .title h3 {
           font-size: 35px;
@@ -409,6 +420,15 @@
      .testimonial-persons {
           margin-left: 0;
           margin-bottom: 45px;
+     }
+     .mainTitle {
+          padding-top: 600px;
+     }
+     .md-order-1 {
+          order: 1;
+     }
+     .md-order-2 {
+          order: 2;
      }
 
 
@@ -528,6 +548,7 @@
      .brand-area ul li {
           margin-bottom: 70px;
           padding: 0;
+          width: 50%;
      }
      .brand-area {
           margin-bottom: 75px;
@@ -709,6 +730,13 @@
      .pro-modal-footer h6 {padding-bottom: 0;}
      .blog-meta {width: 100% !important;}
      .blog-meta {width:76% !important;}
+
+     .md-order-1 {
+          order: 1;
+     }
+     .md-order-2 {
+          order: 2;
+     }
     
 }
 
@@ -717,12 +745,19 @@
 @media screen and (min-width: 500px) and (max-width: 576px) {
      .slider4-bg .slider-content{padding-right: 90px;}
      .modal-dialog {min-width: 490px; margin:0 auto}
+     
+     .md-order-1 {
+          order: 1;
+     }
+     .md-order-2 {
+          order: 2;
+     }
 
 }
 
 
 /* SM Small Device :550px. */
-@media screen and (min-width: 400px) and (max-width: 576px) {
+@media screen and (min-width: 300px) and (max-width: 576px) {
      .slider-dotted { left: -40%;top: -52px; }
      .title h3 {font-size: 33px;}
      .slider-content h1 {font-size: 38px;}
@@ -755,4 +790,15 @@
      .slider6-bg .slider-content h1 {font-size: 58px;}
      .modal-dialog {max-width: 390px; margin:0 auto}
      .blog-meta {width: 90% !important;}
+     
+     .md-order-1 {
+          order: 1;
+     }
+     .md-order-2 {
+          order: 2;
+     }
+
+     .twitter-color, .facebook-color, .google-plus-color {
+          font-size: 1.5rem;
+     }
 }
