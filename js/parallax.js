@@ -530,10 +530,10 @@
 // custom-js here---------------------
 // 10. parallax
 // ---------------------------------------------------------------------------
-var scene = $('#scene').get(0);
+// var scene = $('#scene').get(0);
 
-var parallax = new Parallax(scene, {
-     limitX: true,
-     scalarX: 10.0,
-     originX: 0,
-});
+// var parallax = new Parallax(scene, {
+//      limitX: true,
+//      scalarX: 10.0,
+//      originX: 0,
+// });
